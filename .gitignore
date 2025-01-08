@@ -174,4 +174,5 @@ cython_debug/
 /datasets/math-500-uk-inference.csv
 /datasets/math-500-uk-test.csv
 /datasets/math-500-uk-with-embeddings.csv
+/datasets/math-500-uk.jsonl
 /notebooks/mlruns/
